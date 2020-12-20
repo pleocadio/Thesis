@@ -1,0 +1,19 @@
+        asm("AND R0, R0"); //1bits change
+        asm("AND R0, R1"); //2bits change
+        asm("AND R0, R0"); //1bits change
+        asm("AND R0, R1"); //2bits change
+        asm("AND R0, R0"); //1bits change
+        asm("AND R0, R1"); //2bits change
+        asm("AND R0, R0"); //1bits change
+        asm("AND R0, R1"); //2bits change
+        asm("AND R0, R0"); //1bits change
+        asm("AND R0, R1"); //2bits change
+        asm("AND R0, R0"); //1bits change
+        asm("AND R0, R1"); //2bits change
+        asm("AND R0, R0"); //1bits change
+        asm("AND R0, R1"); //2bits change
+        asm("AND R0, R0"); //1bits change
+        asm("AND R0, R1"); //2bits change
+        asm("AND R0, R0"); //1bits change
+        asm("AND R0, R1"); //2bits change
+        
